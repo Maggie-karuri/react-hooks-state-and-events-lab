@@ -99,11 +99,12 @@ header button {
 
 .Items button.add {
   background-color: var(--yellow);
+  background-color: yellow;
 }
 
 .Items button.remove {
   background-color: var(--magenta);
-  color: white;
+  background-color: magenta;
 }
 
 .Items li .category {
